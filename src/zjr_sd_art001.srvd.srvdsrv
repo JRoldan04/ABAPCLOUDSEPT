@@ -1,0 +1,4 @@
+@EndUserText.label: 'Exponer CDS_ART_001'
+define service ZJR_SD_ART001 {
+  expose ZJR_CDS_ART_001;
+}
